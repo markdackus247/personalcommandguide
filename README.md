@@ -18,6 +18,6 @@ Voer het onderstaande stappenplan uit om je eigen repository (bibliotheek) aan t
 ### Stappen #2
 Om deze Persoonlijke Command Guide te kunnen maken heb je twee virtuele machines nodig.
 1. Installeer een eigen (virtuele) Ubuntu Desktop computer.
-2. Installeer een eigen (virtuele) Ubunut Live Server.
-3. Installeer een virtuele PFsense router in VirtualBox. Voorzie de PFsense router van twee netwerkkaarten. 1ste Netwerkkaart moet op NAT staan. 2de netwerkkaar moet op intern "linuxcmd" staan.
-4. 
+2. Installeer een eigen (virtuele) Ubuntu Live Server.
+3. Installeer een virtuele PFsense router in VirtualBox. Voorzie de PFsense router van twee netwerkkaarten. 1ste Netwerkkaart moet op NAT staan. 2de netwerkkaart moet op intern "linuxcmd" staan.
+4. Zorg ervoor dat alle virtuele machines zijn verbonden met het interne netwerk "linuxcmd".
