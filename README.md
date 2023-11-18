@@ -20,8 +20,8 @@ Voer het onderstaande stappenplan uit om je eigen repository (bibliotheek) aan t
 
 
 ### Stap #2 Virtuele omgeving
-Om deze **Persoonlijke Command Guide** te kunnen maken heb je twee virtuele machines nodig.
-1. Installeer een eigen (virtuele) Ubuntu Desktop computer.
+Om deze **Persoonlijke Command Guide** te kunnen maken heb je twee virtuele machines nodig in VirtualBox.
+1. Installeer een eigen (virtuele) Linux Mint Cinnamon computer.
 2. Installeer een eigen (virtuele) Ubuntu Live Server.
 3. Installeer een virtuele PFsense router in VirtualBox. Voorzie de PFsense router van twee netwerkkaarten. 1ste Netwerkkaart moet op NAT staan. 2de netwerkkaart moet op intern "linuxcmd" staan.
 4. Zorg ervoor dat alle virtuele machines zijn verbonden met het interne netwerk "linuxcmd".
@@ -31,6 +31,8 @@ Om deze **Persoonlijke Command Guide** te kunnen maken heb je twee virtuele mach
 
 ### Stap #3 Persoonlijke Command Guide
 Doorloop alle onderdelen van de persoonlijke command guide. Geef steeds toelichting bij alle commando's. Werk in je eigen Github repository.
+
+**Maak screenshots van alle commando's die hebt uitgevoerd en plaats die in de map Screenshots.**
 
 Hieronder staan de onderdelen van de command guide.
 1. [Software installeren](pcm/1.%20Software.md)
